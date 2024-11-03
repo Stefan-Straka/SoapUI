@@ -52,7 +52,7 @@ Install my-project with npm
 
 ## 📚 Documentation
 
-[WSDL Documentation used in the SOAP Calculator project](http://www.dneonline.com/calculator.asmx?WSDL)
+[WSDL Documentation used in the SOAP Calculator project](http://www.dneonline.com/calculator.asmx?WSDL)<br>
 [URI Documentation used in the REST project](https://reqres.in)
 
 ## 🗨️ Contact
