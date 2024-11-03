@@ -1,5 +1,5 @@
 
-# Postman API
+# SoapUI
 
 Postman collections and enviroments with requests testing process of booking reservation in hotel.
 
@@ -44,27 +44,22 @@ Install my-project with npm
 ```
     
 ## 📝 Usage
-On the right side of the collection are 3 dots, click on them and select run collection.  
-Click on the Run button.  
-You can also run each request individialy. Select a request and click on the Send blue button on the right side  
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
+1. Right-click on **Project**.
+2. Select *Show Project View* from the context menu.
+3. Click on the **Test Suite** tab located on the top panel.
+4. Click on the **green play icon** to run all test suites.
+5. Click on the **Test Suite Log** in the bottom left corner to see results.
 
 ## 📚 Documentation
 
-[API Documentation used in the project](https://restful-booker.herokuapp.com/apidoc/index.html)
+[WSDL Documentation used in the SOAP Calculator project](http://www.dneonline.com/calculator.asmx?WSDL)
+[URI Documentation used in the REST project](https://reqres.in)
+
 ## 🗨️ Contact
 email: stefanstraka2424@gmail.com
 
 <details>
-  <summary>🚀 Performance</summary>
+  <summary>Performance</summary>
   
   - **Async Projections**
   - **Snapshotting**
