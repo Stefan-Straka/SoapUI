@@ -15,14 +15,14 @@ Postman collections and enviroments with requests testing process of booking res
 ## 📖 Project Overview
 <details>
   <summary>SOAP Calculator</summary>
-  - **Add operation**
-  - **Subtract operation**
-  - **Multiply operation**
-  - **Divide operation**
-  - **Groovy Script to run request**
-  - **Groovy Script to run test suite**
-  - **Groovy Script to run test case**
-  - **SetUp and TearDown Groovy Script**
+  - **Add operation**  
+  - **Subtract operation**  
+  - **Multiply operation**  
+  - **Divide operation**  
+  - **Groovy Script to run request**  
+  - **Groovy Script to run test suite**  
+  - **Groovy Script to run test case**  
+  - **SetUp and TearDown Groovy Script**  
 </details>
 
 ## ⚙️ Installation
