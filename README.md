@@ -1,7 +1,7 @@
 
 # SoapUI
 
-Postman collections and enviroments with requests testing process of booking reservation in hotel.
+SoapUI project that test the functionality of SOAP-based Calculator operations. It includes automated test suites and test cases enhanced with Groovy scripts to validate operation accuracy.
 
 
 
